@@ -35,7 +35,8 @@ function LandingPage() {
               <Col className="ml-auto mr-auto text-center" md="8">
                 <h2 className="title">Sobre o iGive</h2>
                 <h5 className="description">
-                  O iGive é uma plataforma online que nasceu das necessidades urgentes de diminuir 
+                O iGive é um projeto <b>sem fins lucrativos</b> e de caracter social que visa minimizar o excessivo desperdício de produtos alimentares e bens materiais, 
+                promovendo à interação entre doadores e instituições carenciadas.
                 </h5>
               </Col>
             </Row>
