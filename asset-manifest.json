@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/igive/static/css/main.fd80e5ab.chunk.css",
-    "main.js": "/igive/static/js/main.1a9f6358.chunk.js",
-    "main.js.map": "/igive/static/js/main.1a9f6358.chunk.js.map",
+    "main.js": "/igive/static/js/main.45069a42.chunk.js",
+    "main.js.map": "/igive/static/js/main.45069a42.chunk.js.map",
     "runtime~main.js": "/igive/static/js/runtime~main.22ebfc59.js",
     "runtime~main.js.map": "/igive/static/js/runtime~main.22ebfc59.js.map",
     "static/js/2.957b0d8a.chunk.js": "/igive/static/js/2.957b0d8a.chunk.js",
     "static/js/2.957b0d8a.chunk.js.map": "/igive/static/js/2.957b0d8a.chunk.js.map",
     "index.html": "/igive/index.html",
-    "precache-manifest.a174ebecb8ca2c8d8e18919f29ba3451.js": "/igive/precache-manifest.a174ebecb8ca2c8d8e18919f29ba3451.js",
+    "precache-manifest.9c0ab20850e49c831d5ba9a8c318252c.js": "/igive/precache-manifest.9c0ab20850e49c831d5ba9a8c318252c.js",
     "service-worker.js": "/igive/service-worker.js",
     "static/css/main.fd80e5ab.chunk.css.map": "/igive/static/css/main.fd80e5ab.chunk.css.map",
     "static/media/bg1.jpg": "/igive/static/media/bg1.a088294a.jpg",
-    "static/media/bg3.jpg": "/igive/static/media/bg3.5031eb09.jpg",
     "static/media/bg6.jpg": "/igive/static/media/bg6.64ac145f.jpg",
+    "static/media/igive.webm": "/igive/static/media/igive.af6fdd58.webm",
     "static/media/login.jpg": "/igive/static/media/login.d6f19306.jpg",
     "static/media/logo.png": "/igive/static/media/logo.b8fb434c.png",
     "static/media/now-ui-kit.scss": "/igive/static/media/nucleo-outline.8ebec31f.woff2"
